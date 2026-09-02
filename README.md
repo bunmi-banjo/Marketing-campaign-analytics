@@ -37,7 +37,7 @@ Fields used: `CampaignName`, `Platform`, `CampaignType`, `OrganicPaid`, `Content
 ## 📊 Dashboard Walkthrough
 
 ### Page 1 — ROI & Spend Overview
-![ROI & Spend Overview](screenshots/roi-spend-overview.png)
+![ROI & Spend Overview]
 
 Answers: *"Are we spending efficiently, and where?"*
 - Total Ad Spend: **61M** | Total Revenue: **232M** | ROI Multiple: **3.79**
@@ -46,14 +46,14 @@ Answers: *"Are we spending efficiently, and where?"*
 - Monthly Ad Spend vs. Revenue trend shows a **seasonal spike around July–August**
 
 ### Page 2 — Engagement & Conversion
-![Engagement & Conversion](screenshots/engagement-conversion.png)
+![Engagement & Conversion]
 
 Answers: *"Is engagement actually turning into bookings?"*
 - Scatter plot of Engagements vs. Bookings by platform highlights that high engagement doesn't always mean high bookings — some platforms drive attention without driving action
 - Campaign-level breakdown table (engagements, clicks, bookings, revenue) supports drilling into individual campaigns like "All You Can Eat Promo"
 
 ### Page 3 — Platform, Content, Service & Audience Performance
-![Platform, Content, Service & Audience Performance](screenshots/platform-content-audience.png)
+![Platform, Content, Service & Audience Performance]
 
 Answers: *"Where should budget and creative focus go next?"*
 - **Google generates by far the most total revenue** of any platform
